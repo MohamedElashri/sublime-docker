@@ -1,3 +1,5 @@
+[![Docker Image CI](https://github.com/MohamedElashri/sublime-docker/actions/workflows/docker-run.yml/badge.svg)](https://github.com/MohamedElashri/sublime-docker/actions/workflows/docker-run.yml)
+
 # sublime-docker
 This docker image is to run sublime 3 inside a docker container
 
